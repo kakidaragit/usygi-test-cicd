@@ -1,2 +1,2 @@
-# yagi-test-cicd
+# test-cicd
 GithubActionsのテスト用リポジトリです。
